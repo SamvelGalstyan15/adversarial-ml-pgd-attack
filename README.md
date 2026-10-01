@@ -12,7 +12,7 @@ Unlike standard model training where weights are updated to minimize loss, this 
 ## Visual Results
 Inside the iterative loop, the model's confidence shifts dramatically within 30 steps:
 * **Step 1:** Model sees a **Cat** (100% confidence).
-* **Step 20:** Model sees a **Lemon** (99.25% confidence), while visually the image remains an identical cat.
+* **Step 29:** Model sees a **Lemon** (99.25% confidence), while visually the image remains an identical cat.
 
 <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/d48703b9-d559-4a4b-8765-9d9731913f9d" />
 
